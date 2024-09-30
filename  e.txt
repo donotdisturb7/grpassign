@@ -9,3 +9,7 @@ outils : Python & Co, GitLab
 consignes : pas d'équipe pour cette partie
 
 Rappel pour demain
+
+
+
+
