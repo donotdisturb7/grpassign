@@ -1,0 +1,11 @@
+Etape 1 : Créer un fichier CSV qui contient les colonnes suivantes :
+Nom Prénom de l'étudiant, Nom de code du projet 1, Nom de code du projet 2, Nom de code du projet 3, Nom de code du projet 4, Nom de code du projet 1
+
+Etape 2 : Développer des idées d'algorithmes qui ont pour vocation de répartir les projets en fonction des désirs des étudiants.
+
+Etape 3 : Présenter le résultat de façon lisible
+
+outils : Python & Co, GitLab
+consignes : pas d'équipe pour cette partie
+
+Rappel pour demain
